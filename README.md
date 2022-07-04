@@ -1,5 +1,5 @@
 # True-Armyworm
-Physiological Plasticity in Migratory and Non-Migratory Phenotypes of the True Armyworm Moth (Mythimna unipuncta) 
+Physiological Plasticity in Migratory and Non-Migratory Phenotypes of the True Armyworm Moth (Mythimna unipuncta).
 
 The true armyworm moth, or Mythimna unipuncta, is known for its high mobility and as a North American agricultural pest to grasses such as wheat, oats, rice and barley (Hobson et al., 2012). Females produce up to 2000 eggs when conditions are favourable—the true armyworm can be migratory or non-migratory depending on the environmental conditions during emergence (Hobson et al., 2012). Migratory insects, such as the true armyworm moth, make tradeoffs to optimize the cost of migratory flight with future reproduction (Anparasan et al., 2020).
 
