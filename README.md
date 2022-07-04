@@ -5,5 +5,5 @@ The true armyworm moth, or Mythimna unipuncta, is known for its high mobility an
 
 The objective of this paper is to investigate the environmental conditions that lead to the underlying phenotypically plastic responses in regards to the true armyworm moths. Phenotypical differences between the migratory and non-migratory such as wing ratio, wing loading, thorax mass, circulating lipids in the form of unsaturated FAs and long chain PUFAs, metabolic rates and CS activity was visualized, analyzed and interpreted.
 
-A variety of statistical methods were used to analyze the data. These statistical methods included the Students T-test, ANOVA, ANCOVA, MANOVA, post-hoc multiple comparison tests, correlation and linear regression. 
+A variety of statistical methods were used to analyze the data. These statistical methods included the Students T-test, ANOVA, ANCOVA, MANOVA, post-hoc multiple comparison tests, correlation and linear regression.
  
